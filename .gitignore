@@ -1,0 +1,11 @@
+.gemini/
+gha-creds-*.json
+/vendor/
+/node_modules/
+**/node_modules
+**/vendor
+**/public
+**/storage
+"Reference-Project/WorkDo Dash Saas Modules/"
+"Reference-Project/Whatsapp-QR Login Module/"
+Reference-Project/
